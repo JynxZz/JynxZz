@@ -11,7 +11,7 @@ Tech Stack :
 - Deep Learning with TensorFlow-Keras & PyTorch
 - Production with Google Cloud Platform, ML Flow
 
-I worked on a project that used **Reinforcement Learning and Distributing**, to create a super agent to beat Street Fighter 3 end game.
+I worked on a project that used **Reinforcement Learning and Distributing Learning**, to create a super agent to beat Street Fighter 3 end game.
 
 In my free time, I enjoy exploring the latest developments in **Reinforcement Learning** and **Deep Learning**.
 
