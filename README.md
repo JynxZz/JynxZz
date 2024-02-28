@@ -9,7 +9,7 @@ Tech Stack :
 - Statistics with Scipy, Seaborn and Statsmodels
 - Machine Learning with Scikit-learn
 - Deep Learning with TensorFlow-Keras & PyTorch
-- Production with Google Cloud Platform, ML Flow
+- Production with Google Cloud Platform, ML Flow, Prefect
 
 I worked on a project that used **Reinforcement Learning and Distributing Learning**, to create a super agent to beat Street Fighter 3 end game.
 
