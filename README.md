@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-Hi there! I'm a data scientist with a background in Food & Beverage industry.
+Hi there! I'm a data engineer with a background in Food & Beverage industry.
 I made my reconversion with **Le Wagon**.
 
 Tech Stack :
