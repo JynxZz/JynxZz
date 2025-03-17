@@ -1,18 +1,17 @@
 ## ABOUT ME
 
-Hi there! I'm a data engineer with a background in Food & Beverage industry.
-I made my reconversion with **Le Wagon**.
+👋 Hello there!
 
-Tech Stack :
+I'm Adrien Cellario, a Data Engineer & Data Scientist with a background in the Food & Beverage industry. After a successful career transition through Le Wagon, I now specialize in data engineering, machine learning, and AI-driven solutions.
 
-- Data Analytics with Python, SQL, BigQuery, Pandas, Numpy, and Matplotlib
-- Statistics with Scipy, Seaborn and Statsmodels
-- Machine Learning with Scikit-learn
-- Deep Learning with TensorFlow-Keras & PyTorch
-- Production with Google Cloud Platform, ML Flow, Prefect
+🔹 Tech Stack & Expertise
+Data Engineering & Analytics: Python, SQL, BigQuery, Pandas, Numpy, Matplotlib
+Statistics & Data Science: Scipy, Seaborn, Statsmodels, Scikit-learn
+Machine Learning & Deep Learning: TensorFlow-Keras, PyTorch, Reinforcement Learning
+MLOps & Production: Google Cloud Platform, MLflow, Prefect, Docker, Kubernetes
+🎯 Projects & Interests
+I’ve worked on cutting-edge AI projects, including Reinforcement Learning and Distributed Learning, where I trained a super-agent to master Street Fighter 3 at an expert level.
 
-I worked on a project that used **Reinforcement Learning and Distributing Learning**, to create a super agent to beat Street Fighter 3 end game.
+Beyond my work, I’m always exploring new AI advancements, optimizing data pipelines, and mentoring aspiring data professionals.
 
-In my free time, I enjoy exploring the latest developments in **Reinforcement Learning** and **Deep Learning**.
-
-I'm always looking for ways to improve my skills and stay up-to-date with the latest technologies in the field.
+🚀 Let’s connect! I'm always open to new opportunities, collaborations, and discussions about AI, Data Engineering, and MLOps.
