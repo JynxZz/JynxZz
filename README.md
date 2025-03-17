@@ -5,10 +5,10 @@
 I'm Adrien Cellario, a Data Engineer & Data Scientist with a background in the Food & Beverage industry. After a successful career transition through Le Wagon, I now specialize in data engineering, machine learning, and AI-driven solutions.
 
 🔹 Tech Stack & Expertise  
-Data Engineering & Analytics: Python, SQL, BigQuery, Pandas, Numpy, Matplotlib  
-Statistics & Data Science: Scipy, Seaborn, Statsmodels, Scikit-learn  
-Machine Learning & Deep Learning: TensorFlow-Keras, PyTorch, Reinforcement Learning  
-MLOps & Production: Google Cloud Platform, MLflow, Prefect, Docker, Kubernetes  
+**Data Engineering & Analytics**: Python, SQL, BigQuery, Pandas, Numpy, Matplotlib  
+**Statistics & Data Science**: Scipy, Seaborn, Statsmodels, Scikit-learn  
+**Machine Learning & Deep Learning**: TensorFlow-Keras, PyTorch, Reinforcement Learning  
+**MLOps & Production**: Google Cloud Platform, MLflow, Prefect, Docker, Kubernetes  
 
 
 🎯 Projects & Interests  
